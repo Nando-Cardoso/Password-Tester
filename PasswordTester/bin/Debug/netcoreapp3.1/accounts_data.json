@@ -1,0 +1,38 @@
+[
+  {
+    "Description": "Fernando",
+    "UserId": "asd123",
+    "LoginUrl": "https://www.google.com/",
+    "AccountNum": "1234",
+    "Password": {
+      "Value": "zzzdeheart",
+      "StrengthNum": 31,
+      "StrengthText": "weak",
+      "LastReset": "6/2/2020"
+    }
+  },
+  {
+    "Description": "Thales",
+    "UserId": "thalesTest",
+    "LoginUrl": "https://www.google.com/",
+    "AccountNum": "312456",
+    "Password": {
+      "Value": "testpassword1.1",
+      "StrengthNum": 99,
+      "StrengthText": "very strong",
+      "LastReset": "6/2/2020"
+    }
+  },
+  {
+    "Description": "Fanshawe",
+    "UserId": "f_cardoso",
+    "LoginUrl": "https://www.google.com/",
+    "AccountNum": "",
+    "Password": {
+      "Value": "fanshaweTestPassword1.0",
+      "StrengthNum": 100,
+      "StrengthText": "very strong",
+      "LastReset": "6/2/2020"
+    }
+  }
+]
